@@ -1,0 +1,7 @@
+# 大会の参加者リスト / Tournament player list
+# 1 行に 1 人: VRChat の表示名, 初期順位用の数値(省略可・大きいほど上位), admin(主催者にする場合)
+# One player per line: VRChat display name, seed (optional, higher = stronger), admin (for organisers)
+# 例 / Example:
+#   Taro, 1800, admin
+#   Hanako, 1650
+#   Jiro
