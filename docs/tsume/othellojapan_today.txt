@@ -1,5 +1,5 @@
 # 今日の詰めオセロ(OthelloJapan)
 # 出典: Othello! JAPAN https://www.othello.org/ (当日分のみ。過去の問題は保存していません)
 # 書式: タイトル,盤面64文字(a1から行ごと。X=黒 O=白 -=空き),手番(X=黒 O=白)
-今日の詰めオセロ(OthelloJapan) 初級編 2026-11-27,OOOOOOOXXOXXXOOXXXOOXOOXXOXOOOX-XOOOOOX-XOOXXOXXXOOXXOX-XXXXXX--,O
+今日の詰めオセロ(OthelloJapan) 初級編 2026-11-28,XXXXXXXXOOOXOOOOOOXXXXOOOOOOXXOOOOOOOOOOOOOOXOOX--OOOXOX--OOOOOO,X
 今日の詰めオセロ(OthelloJapan) 上級編 2026-11-28,--OOOX-OO-OOOOOOOOOXOOXOOOOOOXXOOXOOOOOOOOOXOOOOO-OOOO-O--OOOO--,X
